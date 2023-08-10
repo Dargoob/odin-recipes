@@ -1,0 +1,15 @@
+.recipe-pic {
+    height: auto;
+    width: 400px;
+}
+h1 {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 50px;
+    font-weight: bold;
+}
+body {
+    text-align: center;
+}
+body ul {
+    list-style-type: none;
+}
