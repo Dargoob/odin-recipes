@@ -1,6 +1,7 @@
 .recipe-pic {
     height: auto;
     width: 400px;
+    border: 2px solid black;
 }
 h1 {
     font-family: Arial, Helvetica, sans-serif;
@@ -12,4 +13,24 @@ body {
 }
 body ul {
     list-style-type: none;
+}
+.recipe {
+    background-color: aqua;
+    border: 2px solid black;
+    margin: 1%;
+}
+.description {
+    border: 2px solid black;
+    margin: 8px;
+    padding: 10px
+}
+.ingredients {
+    border: 2px solid black;
+    margin: 8px;
+    padding: 10px
+}
+.steps {
+    border: 2px solid black;
+    margin: 8px;
+    padding: 10px
 }
